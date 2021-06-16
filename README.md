@@ -2,6 +2,21 @@
 
 https://user-images.githubusercontent.com/939553/122247023-57b18e80-cec7-11eb-8ac9-ed6bb88c1095.mp4
 
+## Citation
+
+When use this dataset, please cite:
+
+```bibtex
+@InProceedings{Hu_2021_CVPR,
+    author    = {Hu, Yuhuang and Liu, Shih-Chii and Delbruck, Tobi},
+    title     = {v2e: From Video Frames to Realistic DVS Events},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {1312-1321}
+}
+```
+
 ## Usage
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qL8LoCZ-mm_O8K3aMDo22M3KSUtaK0cp?usp=sharing)
@@ -73,20 +88,6 @@ means `x_min=48, y_min=112`, and `x_max=143, y_max=170`.
 
     If everything works, you should see a video that annotates the cars.
 
-## Citation
-
-When use this dataset, please cite:
-
-```bibtex
-@InProceedings{Hu_2021_CVPR,
-    author    = {Hu, Yuhuang and Liu, Shih-Chii and Delbruck, Tobi},
-    title     = {v2e: From Video Frames to Realistic DVS Events},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month     = {June},
-    year      = {2021},
-    pages     = {1312-1321}
-}
-```
 
 ## Contact
 

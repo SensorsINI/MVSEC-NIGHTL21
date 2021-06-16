@@ -78,6 +78,8 @@ for file_path in saved_files:
 
     relations[fn] = found_idx
 
+    print(found_idx)
+
 #  print(relations)
 
 # align label
@@ -98,16 +100,16 @@ for file_path in saved_files:
 
 # find missing frame ids
 
-gt_filenames = [os.path.basename(path)[:-4] for path in saved_gt_files]
-
-print(len(gt_filenames))
-print(len(relations.keys()))
-
-num_missing_files = 0
-for key in relations.keys():
-
-    if key not in gt_filenames:
-        print("Frame {}".format(relations[key]))
-        num_missing_files += 1
-
-print("Number of missing files {}".format(num_missing_files))
+#  gt_filenames = [os.path.basename(path)[:-4] for path in saved_gt_files]
+#
+#  print(len(gt_filenames))
+#  print(len(relations.keys()))
+#
+#  num_missing_files = 0
+#  for key in relations.keys():
+#
+#      if key not in gt_filenames:
+#          print("Frame {}".format(relations[key]))
+#          num_missing_files += 1
+#
+#  print("Number of missing files {}".format(num_missing_files))

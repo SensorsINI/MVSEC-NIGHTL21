@@ -4,6 +4,8 @@ https://user-images.githubusercontent.com/939553/122247023-57b18e80-cec7-11eb-8a
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4967574.svg)](https://doi.org/10.5281/zenodo.4967574)
+
 When use this dataset, please cite:
 
 ```bibtex

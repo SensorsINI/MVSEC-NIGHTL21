@@ -19,6 +19,14 @@ When use this dataset, please cite:
 }
 ```
 
+## Parent dataset: MVSEC
+
+MVSEC-NIGHTL21 is derived dataset of "The Multi Vehicle Stereo Event Camera Dataset" which is available here: https://daniilidis-group.github.io/mvsec/
+
+Please also cite the original MVSEC paper:
+
++ Zhu, A. Z., Thakur, D., Ozaslan, T., Pfrommer, B., Kumar, V., & Daniilidis, K. (2018). The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception. IEEE Robotics and Automation Letters, 3(3), 2032-2039.
+
 ## Usage
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qL8LoCZ-mm_O8K3aMDo22M3KSUtaK0cp?usp=sharing)
